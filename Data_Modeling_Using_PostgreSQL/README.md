@@ -16,6 +16,7 @@ The task is create a Postgres database with tables designed to optimize queries 
   * songplay_id, start_time, user_id, level, song_id, artist_id, session_id, location, user_agent
 
 **Dimensions Table**    
+
 2. users: users in the app  
   * user_id, first_name, last_name, gender, level
 
