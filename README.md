@@ -15,6 +15,8 @@ A repository containing data engineering and data analysis projects.
 - The purpose of this project is to understand the US immigration trends.
 - Built a data pipeline using Spark.
 
+#### 5. Data Lakes Using Spark
+- Built an ETL pipeline that extracts their data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables.
 
 <i>Updates in progress...</i>
 
