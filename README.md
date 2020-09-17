@@ -11,5 +11,10 @@ A repository containing data engineering and data analysis projects.
 #### 3. Data Modeling Apache Cassandra
 - Created Apache Cassandra database schema, as a part of ETL pipeline
 
-#### To be updated...
+#### 4. US Immigration Trends
+- The purpose of this project is to understand the US immigration trends.
+- Built a data pipeline using Spark.
+
+
+<i>Updates in progress...</i>
 
