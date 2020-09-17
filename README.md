@@ -21,6 +21,8 @@ A repository containing data engineering and data analysis projects.
 #### 6. Data Pipeline with Airflow
 - Built a data warehouse ETL pipelines using Apache Airflow.  
 
+#### 7. Data Warehousing using RedShift
+- Built an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables to find insights about what songs their users are listening to.  
 
 <i>Updates in progress...</i>
 
